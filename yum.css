@@ -76,7 +76,11 @@ i.fas{
     background-position: center;
 }
 .section{
-    margin: 0 auto;
+    margin-left: 2em;
+    padding: 1px;
+}
+.carousel-caption{
+    text-align: center;
 }
 @media screen and (max-width:680px){
     ul.topnav li:not(:nth-child(1)){
