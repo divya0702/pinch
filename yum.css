@@ -79,8 +79,9 @@ i.fas{
     margin-left: 2em;
     padding: 1px;
 }
-.carousel-caption{
+.carousel-caption {
     text-align: center;
+    color: #000;
 }
 @media screen and (max-width:680px){
     ul.topnav li:not(:nth-child(1)){
